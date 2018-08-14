@@ -1,0 +1,42 @@
+/P
+
+
+#define sum v 20
+#define dif v sum
+#define qwe v dif
+#define dfe (p,q,r) p+q+r+2
+a = input()
+b = input()      #Comment
+print sum          #Comment1
+print dif
+print qwe
+dfe (i,j,k)
+#ifdef sum Defined!
+/C
+
+#include <stdio.h>
+#define max v 100 
+#define min v max
+#define avg v min
+#define lst v avg
+#define qwe v lst
+#define mdf (a,b,c,d,e,f) a+b+c+d+e*f*2
+int main()
+
+{
+
+int i1 = max ;
+int j1 = min ;                   //Comment
+int a1 = avg ;                      //Comment1
+int q1 = lst ;
+int w1 = qwe ;
+mdf (u,v,w,x,y,z) ;
+#ifdef max Defined! ;
+#ifndef hrp Not Defined! ;
+printf ("%d", t) ;
+
+}
+
+
+/N
+
